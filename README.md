@@ -1,7 +1,3 @@
-Here's the description for the Hangman Python game repository with the provided files:
-
----
-
 # Caesar Cipher Python Implementation
 
 This repository contains a Python implementation of the Caesar Cipher encryption and decryption algorithm. It includes two files:
